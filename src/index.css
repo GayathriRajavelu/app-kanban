@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* small helper for modal backdrop */
+.modal-backdrop {
+  background: rgba(0,0,0,0.45);
+}
