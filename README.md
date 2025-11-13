@@ -35,7 +35,7 @@ Builds the app for production.
 ## Technologies Used
 
 - React
-- CSS
+- TailwindCss
 - JavaScript
 
 ## License
